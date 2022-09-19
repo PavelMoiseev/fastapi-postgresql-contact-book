@@ -22,7 +22,7 @@ API service with basic authorization, which is a contact book with the ability t
 - FastAPI;
 - Uvicorn;
 - PostgreSQL;
-- Docker/Docker-compose.
+- Docker / Docker-compose.
 
 ## Installation
 To run the program, clone the repository and change the configuration in the file:
